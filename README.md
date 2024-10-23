@@ -1,9 +1,9 @@
 # Brain Tumor Detection Using Deep Learning
 
-![Screenshot 1](![image](https://github.com/user-attachments/assets/e14b2717-6cc9-4e3e-84d8-e62ddb16b2f4))
-![Screenshot 2](![image](https://github.com/user-attachments/assets/4b900709-f3eb-4c66-a6c9-9eb3f76b8657))
-![Screenshot 3](![image](https://github.com/user-attachments/assets/7757fcd6-0eb4-4977-abca-89323320ba07))
-![Screenshot 4](![image](https://github.com/user-attachments/assets/1f309ab0-b486-42dd-a912-35c895d8a74f))
+![Screenshot 1]([image](https://github.com/user-attachments/assets/e14b2717-6cc9-4e3e-84d8-e62ddb16b2f4))
+![Screenshot 2]([image](https://github.com/user-attachments/assets/4b900709-f3eb-4c66-a6c9-9eb3f76b8657))
+![Screenshot 3]([image](https://github.com/user-attachments/assets/7757fcd6-0eb4-4977-abca-89323320ba07))
+![Screenshot 4]([image](https://github.com/user-attachments/assets/1f309ab0-b486-42dd-a912-35c895d8a74f))
 ## Overview
 
 Welcome to the **Brain Tumor Detection** project, a cutting-edge web application that utilizes deep learning to analyze MRI scans for brain tumor detection. This application leverages advanced Convolutional Neural Network (CNN) techniques to provide users with instant diagnostic results. Developed with Flask, the application is designed for ease of use, allowing you to upload MRI images and receive critical health insights in real time.
